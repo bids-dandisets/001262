@@ -1,7 +1,7 @@
-session_id
-ses-G191017+130a
-ses-G191017+158a
-ses-G191017+244
-ses-G191017+500
-ses-G191017+622a
-ses-G191017+653
+session_id	original_session_id
+ses-G191017+130a	ses-G191017:130a
+ses-G191017+158a	ses-G191017:158a
+ses-G191017+244	ses-G191017:244
+ses-G191017+500	ses-G191017:500
+ses-G191017+622a	ses-G191017:622a
+ses-G191017+653	ses-G191017:653

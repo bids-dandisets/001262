@@ -1,6 +1,6 @@
-session_id
-ses-G190118+1P+316nm
-ses-G190118+1P+470nm
-ses-G190118+2P+615nm
-ses-G190118+2P+755nm
-ses-G190118+2P+760nm
+session_id	original_session_id
+ses-G190118+1P+316nm	ses-G190118:1P_316nm
+ses-G190118+1P+470nm	ses-G190118:1P_470nm
+ses-G190118+2P+615nm	ses-G190118:2P_615nm
+ses-G190118+2P+755nm	ses-G190118:2P_755nm
+ses-G190118+2P+760nm	ses-G190118:2P_760nm

@@ -1,105 +1,105 @@
-participant_id	species	sex
-sub-G150717	Meriones unguiculatus	M
-sub-G150730	Meriones unguiculatus	M
-sub-G150805	Meriones unguiculatus	F
-sub-G150921	Meriones unguiculatus	M
-sub-G150922	Meriones unguiculatus	F
-sub-G150929	Meriones unguiculatus	F
-sub-G151001	Meriones unguiculatus	F
-sub-G151104	Meriones unguiculatus	M
-sub-G151110	Meriones unguiculatus	M
-sub-G151126	Meriones unguiculatus	M
-sub-G151203	Meriones unguiculatus	F
-sub-G151210	Meriones unguiculatus	M
-sub-G160322	Meriones unguiculatus	M
-sub-G160412	Meriones unguiculatus	F
-sub-G160419	Meriones unguiculatus	F
-sub-G160426	Meriones unguiculatus	M
-sub-G160504	Meriones unguiculatus	F
-sub-G160518	Meriones unguiculatus	F
-sub-G160524	Meriones unguiculatus	F
-sub-G160531	Meriones unguiculatus	M
-sub-G160609	Meriones unguiculatus	F
-sub-G160727	Meriones unguiculatus	M
-sub-G160803	Meriones unguiculatus	F
-sub-G160817	Meriones unguiculatus	M
-sub-G160901	Meriones unguiculatus	M
-sub-G161110	Meriones unguiculatus	M
-sub-G170425	Meriones unguiculatus	F
-sub-G170508	Meriones unguiculatus	M
-sub-G170512	Meriones unguiculatus	F
-sub-G170517	Meriones unguiculatus	F
-sub-G170523	Meriones unguiculatus	F
-sub-G170712	Meriones unguiculatus	F
-sub-G170808	Meriones unguiculatus	M
-sub-G171023	Meriones unguiculatus	M
-sub-G171204	Meriones unguiculatus	M
-sub-G171211	Meriones unguiculatus	M
-sub-G171214	Meriones unguiculatus	F
-sub-G171221	Meriones unguiculatus	M
-sub-G180118	Meriones unguiculatus	M
-sub-G180205	Meriones unguiculatus	M
-sub-G180406	Meriones unguiculatus	M
-sub-G180626	Meriones unguiculatus	F
-sub-G180710	Meriones unguiculatus	M
-sub-G180717	Meriones unguiculatus	F
-sub-G190108	Meriones unguiculatus	F
-sub-G190118	Meriones unguiculatus	M
-sub-G190129	Meriones unguiculatus	F
-sub-G190326	Meriones unguiculatus	M
-sub-G190411	Meriones unguiculatus	F
-sub-G190507	Meriones unguiculatus	F
-sub-G190515	Meriones unguiculatus	F
-sub-G190603	Meriones unguiculatus	M
-sub-G190611	Meriones unguiculatus	F
-sub-G190613	Meriones unguiculatus	M
-sub-G190617	Meriones unguiculatus	M
-sub-G190704	Meriones unguiculatus	F
-sub-G190730	Meriones unguiculatus	M
-sub-G190801	Meriones unguiculatus	F
-sub-G190806	Meriones unguiculatus	F
-sub-G190903	Meriones unguiculatus	M
-sub-G190912	Meriones unguiculatus	M
-sub-G190920	Meriones unguiculatus	M
-sub-G191008	Meriones unguiculatus	M
-sub-G191017	Meriones unguiculatus	M
-sub-G191022	Meriones unguiculatus	F
-sub-G191115	Meriones unguiculatus	M
-sub-G191128	Meriones unguiculatus	M
-sub-G191217	Meriones unguiculatus	F
-sub-G191219	Meriones unguiculatus	F
-sub-G200213	Meriones unguiculatus	M
-sub-G200225	Meriones unguiculatus	F
-sub-G200306	Meriones unguiculatus	F
-sub-G200528	Meriones unguiculatus	F
-sub-G200616	Meriones unguiculatus	M
-sub-G200623	Meriones unguiculatus	M
-sub-G200901	Meriones unguiculatus	F
-sub-G201001	Meriones unguiculatus	M
-sub-G201103	Meriones unguiculatus	M
-sub-G201112	Meriones unguiculatus	F
-sub-G201208	Meriones unguiculatus	F
-sub-G201210	Meriones unguiculatus	F
-sub-G201215	Meriones unguiculatus	M
-sub-G201217	Meriones unguiculatus	M
-sub-G201222	Meriones unguiculatus	M
-sub-G211118	Meriones unguiculatus	M
-sub-G211221	Meriones unguiculatus	M
-sub-G220201	Meriones unguiculatus	F
-sub-G220222	Meriones unguiculatus	F
-sub-G220301	Meriones unguiculatus	F
-sub-G220331	Meriones unguiculatus	M
-sub-G220407	Meriones unguiculatus	F
-sub-G220602	Meriones unguiculatus	M
-sub-G220609	Meriones unguiculatus	M
-sub-G220726	Meriones unguiculatus	F
-sub-G220901	Meriones unguiculatus	F
-sub-G220908	Meriones unguiculatus	F
-sub-G220922	Meriones unguiculatus	M
-sub-G221006	Meriones unguiculatus	M
-sub-G221013	Meriones unguiculatus	F
-sub-G221110	Meriones unguiculatus	M
-sub-G230511	Meriones unguiculatus	M
-sub-G230907	Meriones unguiculatus	F
-sub-G231218	Meriones unguiculatus	F
-sub-G240111	Meriones unguiculatus	F
+participant_id	original_participant_id	species	sex
+sub-G150717	sub-G150717	Meriones unguiculatus	M
+sub-G150730	sub-G150730	Meriones unguiculatus	M
+sub-G150805	sub-G150805	Meriones unguiculatus	F
+sub-G150921	sub-G150921	Meriones unguiculatus	M
+sub-G150922	sub-G150922	Meriones unguiculatus	F
+sub-G150929	sub-G150929	Meriones unguiculatus	F
+sub-G151001	sub-G151001	Meriones unguiculatus	F
+sub-G151104	sub-G151104	Meriones unguiculatus	M
+sub-G151110	sub-G151110	Meriones unguiculatus	M
+sub-G151126	sub-G151126	Meriones unguiculatus	M
+sub-G151203	sub-G151203	Meriones unguiculatus	F
+sub-G151210	sub-G151210	Meriones unguiculatus	M
+sub-G160322	sub-G160322	Meriones unguiculatus	M
+sub-G160412	sub-G160412	Meriones unguiculatus	F
+sub-G160419	sub-G160419	Meriones unguiculatus	F
+sub-G160426	sub-G160426	Meriones unguiculatus	M
+sub-G160504	sub-G160504	Meriones unguiculatus	F
+sub-G160518	sub-G160518	Meriones unguiculatus	F
+sub-G160524	sub-G160524	Meriones unguiculatus	F
+sub-G160531	sub-G160531	Meriones unguiculatus	M
+sub-G160609	sub-G160609	Meriones unguiculatus	F
+sub-G160727	sub-G160727	Meriones unguiculatus	M
+sub-G160803	sub-G160803	Meriones unguiculatus	F
+sub-G160817	sub-G160817	Meriones unguiculatus	M
+sub-G160901	sub-G160901	Meriones unguiculatus	M
+sub-G161110	sub-G161110	Meriones unguiculatus	M
+sub-G170425	sub-G170425	Meriones unguiculatus	F
+sub-G170508	sub-G170508	Meriones unguiculatus	M
+sub-G170512	sub-G170512	Meriones unguiculatus	F
+sub-G170517	sub-G170517	Meriones unguiculatus	F
+sub-G170523	sub-G170523	Meriones unguiculatus	F
+sub-G170712	sub-G170712	Meriones unguiculatus	F
+sub-G170808	sub-G170808	Meriones unguiculatus	M
+sub-G171023	sub-G171023	Meriones unguiculatus	M
+sub-G171204	sub-G171204	Meriones unguiculatus	M
+sub-G171211	sub-G171211	Meriones unguiculatus	M
+sub-G171214	sub-G171214	Meriones unguiculatus	F
+sub-G171221	sub-G171221	Meriones unguiculatus	M
+sub-G180118	sub-G180118	Meriones unguiculatus	M
+sub-G180205	sub-G180205	Meriones unguiculatus	M
+sub-G180406	sub-G180406	Meriones unguiculatus	M
+sub-G180626	sub-G180626	Meriones unguiculatus	F
+sub-G180710	sub-G180710	Meriones unguiculatus	M
+sub-G180717	sub-G180717	Meriones unguiculatus	F
+sub-G190108	sub-G190108	Meriones unguiculatus	F
+sub-G190118	sub-G190118	Meriones unguiculatus	M
+sub-G190129	sub-G190129	Meriones unguiculatus	F
+sub-G190326	sub-G190326	Meriones unguiculatus	M
+sub-G190411	sub-G190411	Meriones unguiculatus	F
+sub-G190507	sub-G190507	Meriones unguiculatus	F
+sub-G190515	sub-G190515	Meriones unguiculatus	F
+sub-G190603	sub-G190603	Meriones unguiculatus	M
+sub-G190611	sub-G190611	Meriones unguiculatus	F
+sub-G190613	sub-G190613	Meriones unguiculatus	M
+sub-G190617	sub-G190617	Meriones unguiculatus	M
+sub-G190704	sub-G190704	Meriones unguiculatus	F
+sub-G190730	sub-G190730	Meriones unguiculatus	M
+sub-G190801	sub-G190801	Meriones unguiculatus	F
+sub-G190806	sub-G190806	Meriones unguiculatus	F
+sub-G190903	sub-G190903	Meriones unguiculatus	M
+sub-G190912	sub-G190912	Meriones unguiculatus	M
+sub-G190920	sub-G190920	Meriones unguiculatus	M
+sub-G191008	sub-G191008	Meriones unguiculatus	M
+sub-G191017	sub-G191017	Meriones unguiculatus	M
+sub-G191022	sub-G191022	Meriones unguiculatus	F
+sub-G191115	sub-G191115	Meriones unguiculatus	M
+sub-G191128	sub-G191128	Meriones unguiculatus	M
+sub-G191217	sub-G191217	Meriones unguiculatus	F
+sub-G191219	sub-G191219	Meriones unguiculatus	F
+sub-G200213	sub-G200213	Meriones unguiculatus	M
+sub-G200225	sub-G200225	Meriones unguiculatus	F
+sub-G200306	sub-G200306	Meriones unguiculatus	F
+sub-G200528	sub-G200528	Meriones unguiculatus	F
+sub-G200616	sub-G200616	Meriones unguiculatus	M
+sub-G200623	sub-G200623	Meriones unguiculatus	M
+sub-G200901	sub-G200901	Meriones unguiculatus	F
+sub-G201001	sub-G201001	Meriones unguiculatus	M
+sub-G201103	sub-G201103	Meriones unguiculatus	M
+sub-G201112	sub-G201112	Meriones unguiculatus	F
+sub-G201208	sub-G201208	Meriones unguiculatus	F
+sub-G201210	sub-G201210	Meriones unguiculatus	F
+sub-G201215	sub-G201215	Meriones unguiculatus	M
+sub-G201217	sub-G201217	Meriones unguiculatus	M
+sub-G201222	sub-G201222	Meriones unguiculatus	M
+sub-G211118	sub-G211118	Meriones unguiculatus	M
+sub-G211221	sub-G211221	Meriones unguiculatus	M
+sub-G220201	sub-G220201	Meriones unguiculatus	F
+sub-G220222	sub-G220222	Meriones unguiculatus	F
+sub-G220301	sub-G220301	Meriones unguiculatus	F
+sub-G220331	sub-G220331	Meriones unguiculatus	M
+sub-G220407	sub-G220407	Meriones unguiculatus	F
+sub-G220602	sub-G220602	Meriones unguiculatus	M
+sub-G220609	sub-G220609	Meriones unguiculatus	M
+sub-G220726	sub-G220726	Meriones unguiculatus	F
+sub-G220901	sub-G220901	Meriones unguiculatus	F
+sub-G220908	sub-G220908	Meriones unguiculatus	F
+sub-G220922	sub-G220922	Meriones unguiculatus	M
+sub-G221006	sub-G221006	Meriones unguiculatus	M
+sub-G221013	sub-G221013	Meriones unguiculatus	F
+sub-G221110	sub-G221110	Meriones unguiculatus	M
+sub-G230511	sub-G230511	Meriones unguiculatus	M
+sub-G230907	sub-G230907	Meriones unguiculatus	F
+sub-G231218	sub-G231218	Meriones unguiculatus	F
+sub-G240111	sub-G240111	Meriones unguiculatus	F

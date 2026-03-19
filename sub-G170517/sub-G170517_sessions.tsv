@@ -1,5 +1,5 @@
-session_id
-ses-G170517+120
-ses-G170517+125
-ses-G170517+300
-ses-G170517+95
+session_id	original_session_id
+ses-G170517+120	ses-G170517:120
+ses-G170517+125	ses-G170517:125
+ses-G170517+300	ses-G170517:300
+ses-G170517+95	ses-G170517:95

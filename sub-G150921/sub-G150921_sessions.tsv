@@ -1,7 +1,7 @@
-session_id
-ses-G150921+1P+230nm
-ses-G150921+1P+371nm
-ses-G150921+1P+839nm
-ses-G150921+1P+861nm
-ses-G150921+2P+545nm
-ses-G150921+2P+626nm
+session_id	original_session_id
+ses-G150921+1P+230nm	ses-G150921:1P_230nm
+ses-G150921+1P+371nm	ses-G150921:1P_371nm
+ses-G150921+1P+839nm	ses-G150921:1P_839nm
+ses-G150921+1P+861nm	ses-G150921:1P_861nm
+ses-G150921+2P+545nm	ses-G150921:2P_545nm
+ses-G150921+2P+626nm	ses-G150921:2P_626nm
